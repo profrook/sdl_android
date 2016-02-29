@@ -33,6 +33,7 @@ Thumbs.db
 ##############################
 # Generated files
 ##############################
+sdl_android_lib/build/
 bin/
 gen/
 
